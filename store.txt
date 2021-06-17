@@ -1,0 +1,6 @@
+Hp Omen 15                    3        30000000       90000000       Inactive  hp15      
+Zephyrus G15 2021             2        40000000       80000000       Active    g15_21    
+Wd 1tb Purple                 10       1000000        10000000       Deleted   wd1tb     
+Tuf Dash 2021                 1        29999999       29999999       Inactive  tuf_dash  
+Keychron K6                   9        2000000        18000000       Active    k6        
+Iphone 12 Pro Max             4        20000000       80000000       Active    12prm     
